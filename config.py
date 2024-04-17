@@ -1,4 +1,4 @@
-# 输入自己的token
+# 输入2123123
 token = 'your token'
 # 项目id，必填
 show_id = '644fcb2aca916100017dcfef'
